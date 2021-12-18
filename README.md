@@ -5,6 +5,6 @@ HelpME is an interactive social help network. Where you can contact volunteers f
 !["Homepage"]()
 
 !["Delete Appointment"]()
-)
+
 
 !["Displayed Appointments"]()
