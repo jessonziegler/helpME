@@ -11,8 +11,11 @@ HelpME is an interactive social help network. Where you can contact volunteers f
 !["Chat Feature"](https://github.com/jessonziegler/helpME/blob/master/client/public/images/Screen%20Shot%202021-12-18%20at%206.46.46%20PM.jpg)
 
 # Setup
-NPM install dependecies in client and server directories
-NPM start in both server and client directories 
+!Install dependencies with npm install
+!Type NPM start in both server and client directories
+
+
+
 
 
 
